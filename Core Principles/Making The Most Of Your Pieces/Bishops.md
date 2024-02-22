@@ -1,0 +1,4 @@
+- Best on long diagonals
+- Unlike [[Knights|knights]] they are better when more far away from action
+- They are much better together with another bishops so they are on both light and dark squares
+- Powerful with [[Queen|queens]] in [[Batteries|batteries]].

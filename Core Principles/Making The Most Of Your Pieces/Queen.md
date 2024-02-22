@@ -1,0 +1,2 @@
+- Bringing her early out makes you lose a lot of [[Tempo|tempo]]
+- Work well with [[Bishops|bishops]] in [[Batteries|batteries]]

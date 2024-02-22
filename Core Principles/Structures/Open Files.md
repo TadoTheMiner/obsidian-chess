@@ -1,0 +1,1 @@
+**Open files** are files that **don't contain a [[Pawns|pawn]]**. Heavy pieces ([[Rooks|rooks]] and [[Queen|queens]]) are best there.

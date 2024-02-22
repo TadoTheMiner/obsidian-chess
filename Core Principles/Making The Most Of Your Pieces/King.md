@@ -1,0 +1,3 @@
+- Should quickly castle in the [[Opening|opening]]
+- Should hide in the [[Middle Game|middle game]]
+- Powerful in the [[Endgame|endgame]]

@@ -1,0 +1,1 @@
+**Opening** is a [[Game Stages|game stage]] where pieces are developed. Generally, the goal for both players in the opening is to develop the pieces, [[Controlling The Center|control the center]], and get the [[King|king]] safe by castling.

@@ -1,0 +1,1 @@
+**Semi-Open** files are similar to [[Open Files|open files]], but contain a **single [[Pawns|pawn]]**. Heavy pieces ([[Rooks|rooks]] and [[Queen|queens]]) are best there.

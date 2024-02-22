@@ -1,0 +1,1 @@
+A **discovered check** is a type of a [[Discovered Attack|discovered attack]], where the king is checked 

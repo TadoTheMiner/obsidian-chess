@@ -1,0 +1,1 @@
+An endgame is a [[Game Stages|game stage]] that begins when most pieces are captured. It's principles are discussed in [[Endgame Principles]]

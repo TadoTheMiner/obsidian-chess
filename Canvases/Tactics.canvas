@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"393fe6300ffee49b","type":"file","file":"Core Principles/Tactics.md","x":-320,"y":-340,"width":559,"height":598,"color":"1"},
+		{"id":"47c3aa092bb050ac","type":"file","file":"Core Principles/Tactics/Deflection.md","x":-574,"y":-2000,"width":859,"height":1320,"color":"4"},
+		{"id":"9113e1bf37960921","type":"file","file":"Core Principles/Tactics/Pin.md","x":160,"y":840,"width":760,"height":400,"color":"4"},
+		{"id":"11f9458ca07b0d0d","type":"file","file":"Core Principles/Tactics/Decoy.md","x":-1593,"y":-880,"width":906,"height":1401,"color":"4"},
+		{"id":"651408df20a1e99f","type":"file","file":"Core Principles/Tactics/Desperado.md","x":482,"y":-2200,"width":945,"height":1560,"color":"4"},
+		{"id":"9da480c034582945","type":"file","file":"Core Principles/Tactics/Skewer.md","x":-960,"y":840,"width":833,"height":1200,"color":"4"},
+		{"id":"fc7e5f1616422aeb","type":"file","file":"Core Principles/Tactics/Zwischenzug.md","x":-1720,"y":840,"width":647,"height":1274,"color":"4"},
+		{"id":"c79ca898d707b987","type":"text","text":"# Absolute Pin\nAn **absolute pin** occurs when a piece is pinned against a [[King|king]]. ![[Absolute Pin.png]]\n*The bishops pins the queen by Bc4, and the queen can't move away because it's pinned to the king, leading to a [[Desperado|desperado]]*","x":0,"y":1440,"width":640,"height":1000,"color":"5"},
+		{"id":"fab29e714c7ca47f","type":"text","text":"# Relative Pin\nA **relative pin** occurs when a piece is pinned to a more valuable piece that is not a [[King|king]].![[Relative Pin.png]]\n*Black doesn't want to move the knight, because that would lead to Rxd8, leading to cxd6*","x":720,"y":1440,"width":640,"height":1040,"color":"5"},
+		{"id":"2ebc8f75f8a9e3ae","type":"file","file":"Core Principles/Tactics/Double Attack.md","x":583,"y":162,"width":743,"height":601,"color":"4"},
+		{"id":"ddf5c0d94c7a45db","x":540,"y":-338,"width":786,"height":400,"color":"4","type":"file","file":"Core Principles/Tactics/Double Check.md"},
+		{"id":"e9a3f22e3f632dbe","type":"file","file":"Core Principles/Tactics/Fork.md","x":1673,"y":-67,"width":746,"height":1357,"color":"5"},
+		{"id":"2a5cdbdf755c2e7a","x":2640,"y":-720,"width":846,"height":705,"color":"5","type":"file","file":"Core Principles/Tactics/Discovered Check.md"},
+		{"id":"3d935384fee31300","type":"file","file":"Core Principles/Tactics/Discovered Attack.md","x":2300,"y":1477,"width":1186,"height":1488,"color":"5"}
+	],
+	"edges":[
+		{"id":"e0e8b31e0795b62f","fromNode":"393fe6300ffee49b","fromSide":"left","toNode":"11f9458ca07b0d0d","toSide":"right"},
+		{"id":"572e83518f80ac3a","fromNode":"393fe6300ffee49b","fromSide":"top","toNode":"47c3aa092bb050ac","toSide":"bottom"},
+		{"id":"e3e4093261227572","fromNode":"393fe6300ffee49b","fromSide":"top","toNode":"651408df20a1e99f","toSide":"bottom"},
+		{"id":"8967a5151745be15","fromNode":"393fe6300ffee49b","fromSide":"bottom","toNode":"fc7e5f1616422aeb","toSide":"top"},
+		{"id":"73170b790e3250ad","fromNode":"393fe6300ffee49b","fromSide":"bottom","toNode":"9113e1bf37960921","toSide":"top"},
+		{"id":"d3f1162c7a52c8a0","fromNode":"393fe6300ffee49b","fromSide":"bottom","toNode":"9da480c034582945","toSide":"top"},
+		{"id":"80b8385483dfb1e5","fromNode":"9da480c034582945","fromSide":"right","toNode":"9113e1bf37960921","toSide":"left"},
+		{"id":"379c623fda56c645","fromNode":"9113e1bf37960921","fromSide":"left","toNode":"9da480c034582945","toSide":"right"},
+		{"id":"4116ec1baabbea8d","fromNode":"9113e1bf37960921","fromSide":"bottom","toNode":"c79ca898d707b987","toSide":"top"},
+		{"id":"763349503796c789","fromNode":"9113e1bf37960921","fromSide":"bottom","toNode":"fab29e714c7ca47f","toSide":"top"},
+		{"id":"d49698a9b6033e6c","fromNode":"47c3aa092bb050ac","fromSide":"left","toNode":"11f9458ca07b0d0d","toSide":"top"},
+		{"id":"50ad3b45601fb4b6","fromNode":"11f9458ca07b0d0d","fromSide":"top","toNode":"47c3aa092bb050ac","toSide":"left"},
+		{"id":"2acf98b9f5b6898e","fromNode":"393fe6300ffee49b","fromSide":"right","toNode":"2ebc8f75f8a9e3ae","toSide":"left"},
+		{"id":"0f52333601570a54","fromNode":"2ebc8f75f8a9e3ae","fromSide":"right","toNode":"e9a3f22e3f632dbe","toSide":"left"},
+		{"id":"1b52743da87fd05b","fromNode":"2ebc8f75f8a9e3ae","fromSide":"right","toNode":"3d935384fee31300","toSide":"left"},
+		{"id":"36250c9e6f62b427","fromNode":"ddf5c0d94c7a45db","fromSide":"bottom","toNode":"2ebc8f75f8a9e3ae","toSide":"top"},
+		{"id":"129b9d80d976cb90","fromNode":"2a5cdbdf755c2e7a","fromSide":"bottom","toNode":"3d935384fee31300","toSide":"top"},
+		{"id":"d2d94088b6fa13a3","fromNode":"ddf5c0d94c7a45db","fromSide":"right","toNode":"e9a3f22e3f632dbe","toSide":"left"},
+		{"id":"b653a82b3513390c","fromNode":"ddf5c0d94c7a45db","fromSide":"right","toNode":"2a5cdbdf755c2e7a","toSide":"left"},
+		{"id":"d82fe05c4c3278f8","fromNode":"393fe6300ffee49b","fromSide":"right","toNode":"2ebc8f75f8a9e3ae","toSide":"left"},
+		{"id":"4b58577253d7f948","fromNode":"393fe6300ffee49b","fromSide":"right","toNode":"ddf5c0d94c7a45db","toSide":"left"}
+	]
+}

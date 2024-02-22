@@ -1,0 +1,1 @@
+A **double check** is a type of a [[Double Attack|double attack]], where the king is checked

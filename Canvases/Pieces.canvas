@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"1d34ebba6fc29bd2","type":"text","text":"# Pieces\nEach **[[Pieces.canvas|piece]]** has its own advantages and disadvantages. You should use a combination of them to achieve victory.","x":520,"y":-260,"width":480,"height":460,"color":"1"},
+		{"id":"d3c394113aa016ea","type":"file","file":"Core Principles/Making The Most Of Your Pieces/Bishops.md","x":-560,"y":-138,"width":680,"height":578,"color":"4"},
+		{"id":"13f5ff4f269ec185","type":"file","file":"Core Principles/Making The Most Of Your Pieces/Queen.md","x":1200,"y":120,"width":640,"height":418,"color":"4"},
+		{"id":"530a0cab98a0c0a3","type":"file","file":"Core Principles/Making The Most Of Your Pieces/Pawns.md","x":1280,"y":-440,"width":680,"height":480,"color":"4"},
+		{"id":"f9b8082704704b8b","type":"file","file":"Core Principles/Making The Most Of Your Pieces/King.md","x":-456,"y":-620,"width":680,"height":360,"color":"4"},
+		{"id":"76539f235a2cd3da","type":"file","file":"Core Principles/Making The Most Of Your Pieces/Knights.md","x":480,"y":-1040,"width":720,"height":480,"color":"4"},
+		{"id":"1913be5c8348d4ff","type":"file","file":"Core Principles/Making The Most Of Your Pieces/Rooks.md","x":224,"y":538,"width":720,"height":480,"color":"4"}
+	],
+	"edges":[
+		{"id":"960bbcbb4c94316e","fromNode":"1d34ebba6fc29bd2","fromSide":"top","toNode":"76539f235a2cd3da","toSide":"bottom"},
+		{"id":"0c8085ef282c3dcf","fromNode":"1d34ebba6fc29bd2","fromSide":"top","toNode":"530a0cab98a0c0a3","toSide":"left"},
+		{"id":"c2b5ede20fa9f143","fromNode":"1d34ebba6fc29bd2","fromSide":"top","toNode":"f9b8082704704b8b","toSide":"right"},
+		{"id":"06f9a0832fbe7602","fromNode":"1d34ebba6fc29bd2","fromSide":"bottom","toNode":"d3c394113aa016ea","toSide":"right"},
+		{"id":"4c913de94dfbe068","fromNode":"1d34ebba6fc29bd2","fromSide":"bottom","toNode":"1913be5c8348d4ff","toSide":"top"},
+		{"id":"11087bf2f634d02e","fromNode":"1d34ebba6fc29bd2","fromSide":"bottom","toNode":"13f5ff4f269ec185","toSide":"left"}
+	]
+}

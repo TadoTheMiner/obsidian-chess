@@ -1,0 +1,1 @@
+A **discovered attack** is a [[Tactics|tactic]] that happens when a player moves one piece out of the way to reveal a previously blocked attack by another piece.![[Discovered Attack.png]]*Bh7+ enables Qxd6*

@@ -1,0 +1,2 @@
+A **skewer** occurs when a more important piece has to move away, revealing a less valuable piece to be captured. It is the opposite to the [[Pin|pin]].
+![[Skewer.png]]*When black's king moves to safety, the queen is captured*

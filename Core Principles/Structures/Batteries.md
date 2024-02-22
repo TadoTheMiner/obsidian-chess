@@ -1,0 +1,1 @@
+A **battery** refers to a configuration of heavy pieces ([[Rooks|rooks]] or [[Queen|queens]]) that occupy the same file. It can also refer to long-range pieces ([[Queen|queens]] and [[Bishops|bishops]]) that occupy the same diagonal

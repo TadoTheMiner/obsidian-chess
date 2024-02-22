@@ -1,0 +1,5 @@
+- Most useful when on the 6th rank
+- Best in the [[Controlling The Center|center]] because they can access 8 different squares
+- Useful at blocking [[Pawns|pawns]]
+- Work well with [[Queen|queens]]
+- Useful for [[Fork|forking]] opponents.

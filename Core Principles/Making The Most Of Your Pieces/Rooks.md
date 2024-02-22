@@ -1,0 +1,3 @@
+- Powerful on [[Open Files|open]] and [[Semi-Open files|semi-open]] files
+- Even more powerful when combining them together or with the [[Queen|queen]] in [[Batteries|batteries]].
+- Useful when attacking/defending [[Pawns|pawns]] on the 7th/2nd rank

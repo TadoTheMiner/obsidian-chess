@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "3757267ce9591481",
+    "type": "split",
+    "children": [
+      {
+        "id": "eef8e96118712c86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf7755f2d1ec8ee3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f2559b05f990a2ea",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvases/Pieces.canvas",
+                "viewState": {
+                  "x": 700,
+                  "y": -120.00000000000006,
+                  "zoom": -1.3849410745327104
+                }
+              }
+            }
+          },
+          {
+            "id": "48d4eadcb3b82435",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvases/Tactics.canvas",
+                "viewState": {
+                  "x": 1893.4025111607225,
+                  "y": 571.4849752792792,
+                  "zoom": -1.3525164147207853
+                }
+              }
+            }
+          },
+          {
+            "id": "0a79662bc251d3bb",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvases/Pieces.canvas",
+                "viewState": {
+                  "x": 816.9926511271229,
+                  "y": -532.9241250125006,
+                  "zoom": -0.7419546877149661
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c67a0c43fb320c9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "93ea4e52820f8c25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb6a31a79110a0d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9aa4223ca9511652",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47c62326169fdac5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "edf0569f6184d6c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8513deb3f2964c3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "024ff4faa2110b2e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Canvases/Tactics.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7869535df4014c7e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Canvases/Tactics.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d9f1f71bceb136e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "acd4f1588c8e07c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Canvases/Tactics.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true
+    }
+  },
+  "active": "48d4eadcb3b82435",
+  "lastOpenFiles": [
+    "Core Principles/Tactics/Double Check.md",
+    "Canvases/Tactics.canvas",
+    "Core Principles/Tactics/Discovered Check.md",
+    "Core Principles/Tactics.md",
+    "Core Principles/Tactics/Discovered Attack.md",
+    "Core Principles/Tactics/Double Attack.md",
+    "Core Principles/Tactics/Desperado.png",
+    "Core Principles/Tactics/Fork.md",
+    "Core Principles/Tactics/Decoy.md",
+    "Core Principles/Tactics/Skewer.md",
+    "Core Principles/Tactics/Deflection.md",
+    "Core Principles/Tempo.md",
+    "Core Principles/Controlling The Center.md",
+    "Canvases/Pieces.canvas",
+    "Core Principles/Making The Most Of Your Pieces/King.md",
+    "Endgame Principles/Two Bishops Checkmate.md",
+    "Core Principles/Game Stages.md",
+    "Chess.md",
+    "Core Principles/Making The Most Of Your Pieces/Knights.md",
+    "Endgame Principles/Two Bishops Checkmate4.png",
+    "Endgame Principles/Two Bishops Checkmate1.png",
+    "Endgame Principles/Two Bishops Checkmate3.png",
+    "Endgame Principles",
+    "Endgame Principles/Two Bishops Checkmate2.png",
+    "Openings.md",
+    "Endgame Principles.md",
+    "Core Principles/Game Stages/Opening.md",
+    "Core Principles/Making The Most Of Your Pieces/Rooks.md",
+    "Core Principles/Making The Most Of Your Pieces/Queen.md",
+    "Core Principles/Making The Most Of Your Pieces/Pawns.md",
+    "Core Principles/Making The Most Of Your Pieces/Bishops.md",
+    "Core Principles.md",
+    "Core Principles/Game Stages/Opening",
+    "Core Principles/Game Stages/Endgame.md",
+    "Canvases",
+    "Core Principles/Game Stages",
+    "Core Principles/Tactics/Decoy.png",
+    "Core Principles/Tactics/Relative Pin.png",
+    "Core Principles/Tactics/Skewer.png",
+    "foo",
+    "Core Principles/Tactics/Absolute Pin.png",
+    "Core Principles/Tactics/Deflection.png",
+    "Core Principles/Structures",
+    "Core Principles/Tactics",
+    "Core Principles/Making The Most Of Your Pieces",
+    "Core Principles",
+    "Rules"
+  ]
+}

@@ -1,0 +1,1 @@
+**Zwischenzug**, also known as **intermezzo** in Italian **and in-between move** in English, is an unexpected move that poses a severe threat and forces immediate response. This type of move usually happens in-between exchanges or [[Tactics|tactical]] combinations, and that is the reason for its name.![[Zwishenzug.png]] *Before Kxf2, white plays Bxh6+*
